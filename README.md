@@ -17,5 +17,6 @@ Feel free to explore my portfolio to discover the projects I'm currently working
 
 Connect with Me 🤝
 
-
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/shawnyatsin/)!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnYS-codemtl)](https://github.com/anuraghazra/github-readme-stats)
