@@ -4,7 +4,7 @@ My name is Shawn and I am a 4th year at McGill University 🇨🇦 where I major
 
 Outside of work and academics, I spend my time staying active through community sports such as volleyball 🏐 and dragonboat 🐉 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood. I am also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
 
-Tech Stack 💻
+## Tech Stack 💻
 
 Programming Languages: Python, Java, C, SQL, HTML, CSS, Javascript, EJS
 
@@ -15,6 +15,18 @@ Frameworks: JUnit, Bootstrap, argparse, matplotlib, BeautifulSoup, Pandas, unitt
 My Projects & Personal Learning 🚀
 Feel free to explore my portfolio to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
 
+## Projects I've Contributed To
+- [Unit Testing for REST API todo list manager](https://github.com/jessLii/ECSE429)  
+  *Conducted exploratory testing sessions on capabilities related to todos*
+  *Wrote a unit test suite covering documented and undocumented API discovered during exploratory testing*
+  
+- [Story Testing of REST API todo list manager](https://github.com/naomisandvr/cucumber-partB)
+  *Defined scenario outline gherkin scripts to be executed many times with different values for variable data*
+  
+- [Non-functional Testing of REST API todo list manager](https://github.com/naomisandvr/performance-partC)
+  *Performed dynamic analysis of API operations using the JAVA ManagementFactory class.
+
+  
 Connect with Me 🤝
 
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/shawnyatsin/)!
