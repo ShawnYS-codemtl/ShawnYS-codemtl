@@ -12,9 +12,6 @@ Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Bash, Cucumber
 
 Frameworks: JUnit, Bootstrap, argparse, matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios, Matplotlib
 
-My Projects & Personal Learning 🚀
-Feel free to explore my portfolio to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
-
 ## Projects I've Contributed To
 - [Unit Testing for REST API todo list manager](https://github.com/jessLii/ECSE429)  
   *Conducted exploratory testing sessions on capabilities related to todos*
@@ -24,11 +21,8 @@ Feel free to explore my portfolio to discover the projects I'm currently working
   *Defined scenario outline gherkin scripts to be executed many times with different values for variable data*
   
 - [Non-functional Testing of REST API todo list manager](https://github.com/naomisandvr/performance-partC)
-  *Performed dynamic analysis of API operations using the JAVA ManagementFactory class.
+  *Performed dynamic analysis of API operations using the JAVA ManagementFactory class.*
 
-  
-Connect with Me 🤝
 
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/shawnyatsin/)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnYS-codemtl)](https://github.com/anuraghazra/github-readme-stats)
