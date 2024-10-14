@@ -5,12 +5,56 @@ My name is Shawn and I am a 4th year at McGill University 🇨🇦 where I major
 Outside of work and academics, I spend my time staying active through community sports such as volleyball 🏐 and dragonboat 🐉 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood. I am also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
 
 ## Tech Stack 💻
+<p>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" />
+<img width="40" height="40" src="https://img.icons8.com/color/48/ejs.png" alt="ejs"/>
+</p>
 
-Programming Languages: Python, Java, C, SQL, HTML, CSS, Javascript, EJS
 
-Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Bash, Cucumber, SonarQube, pgAdmin4, VSCode, PostgreSQL, npm
+Programming Languages: Python, Java, C, SQL, HTML, CSS, Javascript, Bash, EJS
 
-Frameworks: JUnit, Bootstrap, argparse, matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios, Matplotlib
+<br>
+<p>
+  <img width="40" height="40" src="/github-icon-2.svg" alt="github"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="unix"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="unix"/>
+</p>
+
+Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, SonarQube, pgAdmin4, VSCode, PostgreSQL, npm
+
+<br>
+
+<p>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="git"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="git"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="git"/>
+  <img width="40" height="40" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="git"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="git"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="git"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="git"/>
+  <img width="40" height="40" src="/express-svgrepo-com.svg" alt="git">
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="git">
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="git">
+
+
+</p>
+Frameworks: JUnit, Bootstrap, argparse, Matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios
 
 ## Projects I've Contributed To
 - [Unit Testing for REST API todo list manager](https://github.com/jessLii/ECSE429)  
