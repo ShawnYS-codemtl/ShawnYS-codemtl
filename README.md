@@ -44,7 +44,7 @@ Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, Sona
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="git"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="git"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="git"/>
-  <img width="40" height="40" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="git"/>
+  <img width="48" height="40" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="git"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="git"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="git"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="git"/>
