@@ -25,4 +25,4 @@ Frameworks: JUnit, Bootstrap, argparse, matplotlib, BeautifulSoup, Pandas, unitt
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnYS-codemtl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnYS-codemtl&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
