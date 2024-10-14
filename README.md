@@ -14,14 +14,14 @@ Frameworks: JUnit, Bootstrap, argparse, matplotlib, BeautifulSoup, Pandas, unitt
 
 ## Projects I've Contributed To
 - [Unit Testing for REST API todo list manager](https://github.com/jessLii/ECSE429)  
-  *Conducted exploratory testing sessions on capabilities related to todos*
-  *Wrote a unit test suite covering documented and undocumented API discovered during exploratory testing*
+  - *Conducted exploratory testing sessions on capabilities related to todos.*
+  - *Wrote a unit test suite covering documented and undocumented API discovered during exploratory testing*
   
 - [Story Testing of REST API todo list manager](https://github.com/naomisandvr/cucumber-partB)
-  *Defined scenario outline gherkin scripts to be executed many times with different values for variable data*
+  - *Defined scenario outline gherkin scripts to be executed many times with different values for variable data*
   
 - [Non-functional Testing of REST API todo list manager](https://github.com/naomisandvr/performance-partC)
-  *Performed dynamic analysis of API operations using the JAVA ManagementFactory class.*
+  - *Performed dynamic analysis of API operations using the JAVA ManagementFactory class.*
 
 
 
