@@ -1,6 +1,6 @@
 # SHAWN YAT SIN
 ## About Me 🌱
-My name is Shawn and I am a 4th year at McGill University 🇨🇦 where I major in Software Engineering. I enjoy tackling new projects, collaborating with others, and learning new technologies. Currently, I am completing a full-stack web development bootcamp, grinding leetcode, and learning C++ in my spare time. I also plan on participating in a hackathon and taking a machine learning class in the winter semester. 
+My name is Shawn and I recently graduated from McGill University 🇨🇦 majoring in Software Engineering. I enjoy tackling new projects, collaborating with others, and learning new technologies. Currently, I am completing a full-stack web development bootcamp, grinding leetcode, and learning C++ in my spare time. 
 
 Outside of work and academics, I spend my time staying active through community sports such as volleyball 🏐 and dragonboat 🐉 as well as working out 💪 at home and skateboarding 🛹 or biking 🚴 around the neighborhood. I am also part of the Hong Kong Student Network as VP Internal at McGill and had the pleasure of taking Japanese and Korean courses.
 
@@ -57,6 +57,10 @@ Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, Sona
 Frameworks: JUnit, Bootstrap, argparse, Matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios
 
 ## Projects I've Contributed To
+- [Mars AI Rover Simulator] (https://github.com/seagram/MarsRoverSimulator.git)
+  - *Designed and implemented the GUI in pygame.*
+  - *Implemented tab creation and switching logic.*
+  
 - [Unit Testing for REST API todo list manager](https://github.com/jessLii/ECSE429)  
   - *Conducted exploratory testing sessions on capabilities related to todos.*
   - *Wrote a unit test suite covering documented and undocumented API discovered during exploratory testing*
