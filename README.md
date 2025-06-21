@@ -57,7 +57,7 @@ Tools: GitHub, Git, Azure DevOps, Postman, Unix CLI, Docker, vim, Cucumber, Sona
 Frameworks: JUnit, Bootstrap, argparse, Matplotlib, BeautifulSoup, Pandas, unittest, jQuery, JSON, csv, EMF, Java Swing, Express.js, Node.js, Axios
 
 ## Projects I've Contributed To
-- [Mars AI Rover Simulator] (https://github.com/seagram/MarsRoverSimulator.git)
+- [Mars AI Rover Simulator](https://github.com/seagram/MarsRoverSimulator)
   - *Designed and implemented the GUI in pygame.*
   - *Implemented tab creation and switching logic.*
   
